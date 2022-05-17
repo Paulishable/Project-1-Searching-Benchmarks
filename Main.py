@@ -3,7 +3,7 @@ import math
 from time import perf_counter
 
 
-# Linear Search
+# Jump Search
 def jump_search(a_lyst, target):
     # Finding block size to be jumped
     n = len(a_lyst)
