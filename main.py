@@ -18,7 +18,7 @@ def jump_search(a_lyst, target):
         if prev >= n:
             return False
 
-    # Doing a linear search for x in
+    # Doing a linear search for a target in lyst
     # block beginning with prev.
     while a_lyst[int(prev)] < target:
         prev += 1
