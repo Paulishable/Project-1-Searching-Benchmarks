@@ -1,2 +1,2 @@
-# Project-1-Sorting
-Project 1 Sorting Benchmarks
+# Project-1-Searching Benchmarks
+Project 1 Searching Benchmarks
